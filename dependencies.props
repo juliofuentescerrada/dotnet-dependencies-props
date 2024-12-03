@@ -1,0 +1,14 @@
+<Project>
+	<PropertyGroup Label="SDK Versions">
+		<NetTargetVersion>net9.0</NetTargetVersion>
+	</PropertyGroup>
+	<PropertyGroup Label="Package Versions">
+		<Dapper>2.1.35</Dapper>
+		<EntityFramework>6.0.0</EntityFramework>
+		<FluentValidation>11.11.0</FluentValidation>
+		<Serilog>4.1.0</Serilog>
+		<MicrosoftAspNetCoreOpenApi>9.0.0</MicrosoftAspNetCoreOpenApi>
+		<MicrosoftDataSqlClient>5.1.0</MicrosoftDataSqlClient>
+		<MicrosoftVisualStudioAzureContainersToolsTargets>1.21.0</MicrosoftVisualStudioAzureContainersToolsTargets>
+	</PropertyGroup>
+</Project>
